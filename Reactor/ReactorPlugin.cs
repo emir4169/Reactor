@@ -74,7 +74,7 @@ public partial class ReactorPlugin : BasePlugin
         {
             if (scene.name == "MainMenu")
             {
-                ModManager.Instance.ShowModStamp();
+  //              ModManager.Instance.ShowModStamp();
             }
         }));
     }
